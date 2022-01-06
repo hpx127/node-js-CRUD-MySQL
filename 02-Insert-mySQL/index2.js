@@ -1,9 +1,9 @@
 var mysql = require('mysql');
 var connected = mysql.createConnection({
-    host:"localhost",
+    host:"=================host name========",
     user:"=======user name=========",
     password:"=========password ========",
-    database:"student"
+    database:"========database name=========="
 });
 
 //.......................INSERT FUNCTION type-2.............................//
