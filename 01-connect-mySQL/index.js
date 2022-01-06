@@ -4,10 +4,10 @@ var mysql = require('mysql');
 //..............connection with MYSQL............................//
 
 var con = mysql.createConnection({
-    host:"localhost",
+    host:"=======host name=======",
     user:"========user name===========", // user name
     password:"=======password=========", // password
-    database:"student"
+    database:"===========database name========="
 });
 
 //.................hot get data on sql.......................//
