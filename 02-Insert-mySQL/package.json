@@ -1,0 +1,15 @@
+{
+  "name": "insert-mysql",
+  "version": "1.0.0",
+  "description": "this is insert opreation",
+  "main": "index.js",
+  "scripts": {
+    "start":"node index.js",
+    "test": "node index.js"
+  },
+  "author": "harshit patel",
+  "license": "ISC",
+  "dependencies": {
+    "mysql": "^2.18.1"
+  }
+}

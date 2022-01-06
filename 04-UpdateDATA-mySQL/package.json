@@ -1,0 +1,14 @@
+{
+  "name": "04-updatedata-mysql",
+  "version": "1.0.0",
+  "description": "this is update method",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "harshit patel",
+  "license": "ISC",
+  "dependencies": {
+    "mysql": "^2.18.1"
+  }
+}

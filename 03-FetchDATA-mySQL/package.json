@@ -1,0 +1,15 @@
+{
+  "name": "03-fetchdata-mysql",
+  "version": "1.0.0",
+  "description": "this is fatch data",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js",
+    "start":"node index.js"
+  },
+  "author": "harshit patel",
+  "license": "ISC",
+  "dependencies": {
+    "mysql": "^2.18.1"
+  }
+}
